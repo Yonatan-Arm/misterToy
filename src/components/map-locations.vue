@@ -35,9 +35,6 @@ export default {
 }
 </script>
 <style >
-.vue-map-container{
-    height: 50vh;
-    width: 40vw;
-}
+
 
 </style>

@@ -9,3 +9,13 @@
 .align-items{
     align-items: center;
 }
+.vue-map-container{
+    height: 50vh;
+    width: 40vw;
+}
+.toy-filter{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column-reverse;
+      gap: 0.5rem;
+  }

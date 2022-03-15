@@ -62,11 +62,6 @@ export default {
 };
 </script>
 <style>
-.toy-filter{
-  margin-top: 1rem;
-  display: flex;
-  flex-direction: column-reverse;
-    gap: 0.5rem;
-}
+
 
 </style>
